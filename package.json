@@ -1,0 +1,11 @@
+{
+  "license": "test",
+  "private": true,
+  "name": "vTest",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^1.4.0"
+  }
+}
